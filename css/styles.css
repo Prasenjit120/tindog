@@ -144,8 +144,8 @@ p{
     width: 70%;
     padding: 8% 0;
   }
-  #title .container-fluid{
-  padding: 3vh 10vw;
+  .container-fluid{
+  padding: 3% 10% !important;
   }
   a{
     font-size: 1.4rem;
